@@ -5,7 +5,7 @@
 *1.[Paisseon.etc-SatellaJailed](https://github.com/Paisseon/SatellaJailed)* 
 
 # 使用方法
-可注入后用于部分应用本地内购解锁，需点击购买后取消解锁。
+部分需要越狱使用，非越狱的注入后可用于部分应用本地内购解锁，需点击购买后取消解锁。
 
 # 应用列表如下：
 1.总裁短剧(需要覆盖[商店版](https://apps.apple.com/cn/app/id6523420381))  2.YPT - 学习小组(无需覆盖[商店版](https://apps.apple.com/id1441909643))  3.深海计算器(无需覆盖[商店版](https://apps.apple.com/app/id1458457890))
