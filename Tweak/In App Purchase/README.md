@@ -6,5 +6,7 @@
 
 # 应用列表如下：
 1.总裁短剧(需要覆盖[商店版](https://apps.apple.com/cn/app/id6523420381))
+
 2.YPT - 学习小组(无需覆盖[商店版](https://apps.apple.com/id1441909643))
+
 3.深海计算器(无需覆盖[商店版](https://apps.apple.com/app/id1458457890))
