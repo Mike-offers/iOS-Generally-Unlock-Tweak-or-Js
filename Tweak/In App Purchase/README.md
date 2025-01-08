@@ -12,4 +12,4 @@
 [总裁短剧](https://apps.apple.com/cn/app/id6523420381)
 
 ## 无需覆盖商店版
-[YPT - 学习小组](https://apps.apple.com/app/id1441909643) [深海计算器](https://apps.apple.com/app/id1458457890)
+[YPT - 学习小组](https://apps.apple.com/app/id1441909643) [深海计算器](https://apps.apple.com/app/id1458457890) [VidHub](https://apps.apple.com/app/id1659622164)
